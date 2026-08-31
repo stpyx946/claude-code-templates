@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T09:08:10.327244+00:00",
+  "lastUpdated": "2026-08-31T09:36:56.546461+00:00",
   "totalJobs": 104,
   "sources": [
     "Anthropic",
@@ -136,27 +136,6 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
-      "id": "anth-5390865008",
-      "company": "Anthropic",
-      "position": "Manager of Applied AI Architecture, Commercial",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "As the Manager of Commercial Applied AI Architects at Anthropic, you will drive adoption of frontier AI across our mid-market and SMB customers by leading a team of technical architects who help companies build and deploy with the Claude API, Claude Code, the Agent SDK, and Claude for Enterprise....",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
-      "postedAt": "2026-08-20T15:07:21-04:00",
-      "tags": [
-        "Rust",
-        "Go",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
       "id": "anth-5393526008",
       "company": "Anthropic",
       "position": "Product Manager, Cybersecurity ",
@@ -268,6 +247,29 @@
       "companyIcon": ""
     },
     {
+      "id": "wwr-toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+      "company": "Toptal",
+      "position": "Python Backend Development Talent with RAG and Agentic AI Experience",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Summary: We are seeking an experienced Python Backend Developer to design, build, and deploy scalable AI-powered applications using Retrieval-Augmented Generation, large language models, and agentic AI frameworks. The role will focus on delivering a production-grade RAG system and AI...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+      "postedAt": "2026-08-12T18:38:32+00:00",
+      "tags": [
+        "Python",
+        "Go",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Rails"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-49271778",
       "company": "Odin",
       "position": "Senior Design Engineer",
@@ -288,6 +290,31 @@
         "Kubernetes",
         "React Native",
         "GraphQL"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "wwr-toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "company": "Toptal",
+      "position": "Senior Software Engineer for AI-Powered Banking Platform",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: We are seeking a Senior Software Engineer to build and scale production-grade AI-powered financial products. This is a hands-on engineering role focused on backend platform development, AI integration, and distributed systems. The ideal candidate has strong experience with TypeScript,...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+      "postedAt": "2026-08-12T12:18:51+00:00",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "Python",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Claude Code",
+        "Cursor"
       ],
       "companyIcon": ""
     },
@@ -626,32 +653,6 @@
       "tags": [
         "TypeScript",
         "Claude Code",
-        "Cursor"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-      "company": "Hygraph",
-      "position": "Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Dircksenstraße 47, 10178 Berlin, Germany URL: https://hygraph.com How will you make an impact? As a Senior Full Stack Engineer, you'll work at the intersection of engineering and product to shape how our users build with Hygraph. You'll ship features that solve real customer problems,...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-      "postedAt": "2026-07-31T11:59:36+00:00",
-      "tags": [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Rust",
-        "Go",
-        "Node.js",
-        "PostgreSQL",
-        "AWS",
-        "GCP",
         "Cursor"
       ],
       "companyIcon": ""
