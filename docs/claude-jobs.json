@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-31T09:36:56.546461+00:00",
-  "totalJobs": 104,
+  "lastUpdated": "2026-09-01T08:32:39.208554+00:00",
+  "totalJobs": 105,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -126,6 +126,27 @@
       "source": "Anthropic",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
       "postedAt": "2026-08-20T21:53:08-04:00",
+      "tags": [
+        "Rust",
+        "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5390865008",
+      "company": "Anthropic",
+      "position": "Manager of Applied AI Architecture, Commercial",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As the Manager of Commercial Applied AI Architects at Anthropic, you will drive adoption of frontier AI across our mid-market and SMB customers by leading a team of technical architects who help companies build and deploy with the Claude API, Claude Code, the Agent SDK, and Claude for Enterprise....",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
+      "postedAt": "2026-08-20T15:07:21-04:00",
       "tags": [
         "Rust",
         "Go",
